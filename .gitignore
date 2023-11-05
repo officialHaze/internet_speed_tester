@@ -1,0 +1,11 @@
+node_modules/
+
+dist/
+
+todo.txt
+
+# ENVs'
+.env
+.env.local
+.env.prod
+

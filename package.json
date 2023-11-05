@@ -1,0 +1,11 @@
+{
+  "name": "internet-speed-tester",
+  "version": "0.0.1",
+  "description": "Test your internet speed",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moinak Dey",
+  "license": "ISC"
+}
